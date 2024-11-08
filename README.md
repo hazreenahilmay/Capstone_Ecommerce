@@ -8,7 +8,8 @@ Books, and Clothing & Accessories using NLP
 
 Model Architecture: 
 
-![model](https://github.com/user-attachments/assets/a90727cd-5c15-4f69-aacb-6bbfeded15f7)
+![model](https://github.com/user-attachments/assets/ea9fb240-ef7d-44df-8d1e-b8e37664fa49)
+
 
 Result Evaluation: 
 
@@ -26,5 +27,8 @@ Training Loss:
 
 Accuracy: 
 ![accuracy_tb](https://github.com/user-attachments/assets/83aa2dfc-c8ec-4e8b-82a4-07233972085c)
+
+Reference:
+
 
 
