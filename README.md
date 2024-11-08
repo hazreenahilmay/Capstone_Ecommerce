@@ -7,14 +7,17 @@ Trained on a dataset of over 50,000 unseen products to monitor the trend of e-co
 Books, and Clothing & Accessories using NLP 
 
 Model Architecture: 
+
 ![model](https://github.com/user-attachments/assets/a90727cd-5c15-4f69-aacb-6bbfeded15f7)
 
 Result Evaluation: 
 
 F1 Score:
+
 ![F1score](https://github.com/user-attachments/assets/63a3646a-c267-47d5-bdac-6b39748275b9)
 
 Model Accuracy: 
+
 ![accuracy](https://github.com/user-attachments/assets/63c96394-46ac-49f7-8cf6-1f023349af8b)
 
 Training Epoch:- 
