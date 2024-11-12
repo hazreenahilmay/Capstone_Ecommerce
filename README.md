@@ -3,8 +3,8 @@
 
 Develop a predictive classification model for e-commerce using a deep learning approach with a Bi-LSTM architecture in Natural Language Processing (NLP).
 
-Trained on a dataset of over 50,000 unseen products to monitor the trend of e-commerce platforms into four categories: Electronics, "Household”, 
-Books, and Clothing & Accessories using NLP 
+Trained on a dataset of over 50,000 unseen products to monitor the trend of e-commerce platforms into four categories which are Electronics, Household, 
+Books, and Clothing & Accessories by using NLP. This model uses 5,000 tokens with an output sequence length of 200 during the tokenization process.
 
 Model Architecture: 
 
@@ -29,6 +29,7 @@ Accuracy:
 ![accuracy_tb](https://github.com/user-attachments/assets/83aa2dfc-c8ec-4e8b-82a4-07233972085c)
 
 Reference:
+https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification
 
 
 
