@@ -1,7 +1,7 @@
 # Capstone_Ecommerce
 ![ecommerce-p800](https://github.com/user-attachments/assets/d8eb2258-6f5c-4d9e-a8af-ee40fbadc54e)
 
-Develop a predictive classification model for e-commerce using a deep learning approach with a Bi-LSTM architecture in Natural Language Processing (NLP).
+Developed a predictive classification model for e-commerce using a deep learning approach with a Bi-LSTM architecture in Natural Language Processing (NLP).
 
 Trained on a dataset of over 50,000 unseen products to monitor the trend of e-commerce platforms into four categories which are Electronics, Household, 
 Books, and Clothing & Accessories by using NLP. This model uses 5,000 tokens with an output sequence length of 200 during the tokenization process.
