@@ -13,6 +13,7 @@ This model contains four primary layers: TextVectorization, Embedding, Bidirecti
 
 
 Result Evaluation: 
+The model achieved high accuracy (F1 value) which is 97% with the value of loss of 0.122.
 
 F1 Score:
 
@@ -21,7 +22,7 @@ F1 Score:
 Model Accuracy: 
 
 ![accuracy](https://github.com/user-attachments/assets/63c96394-46ac-49f7-8cf6-1f023349af8b)
-The model achieved high accuracy (F1 value) which is 97% with the value of loss of 0.124.
+
 Training Epoch:- 
 Training Loss:
 ![loss_tb](https://github.com/user-attachments/assets/a5268280-22cc-4a80-a1ca-d1afb23e87dd)
