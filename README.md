@@ -8,6 +8,7 @@ Books, and Clothing & Accessories by using NLP. This model uses 5,000 tokens wit
 
 Model Architecture: 
 
+The model contains four primary layers: TextVectorization, Embedding, Bidirectional, and Dense.
 ![model](https://github.com/user-attachments/assets/ea9fb240-ef7d-44df-8d1e-b8e37664fa49)
 
 
